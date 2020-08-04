@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE companies SYSTEM "src/main/resources/dtd/CarsharingStations.dtd">
+<companies>
+	<company name="UniLu">
+		<twoway id="1" x="4594512.478" y="5820208.594" >
+		     <vehicle type="car" vehicleID="5457011" />
+		     <vehicle type="car" vehicleID="5457012" />
+		     <vehicle type="car" vehicleID="5457013" />
+		     <vehicle type="car" vehicleID="5457014" />
+		     <vehicle type="car" vehicleID="5457015" />
+		</twoway>
+		<twoway id="2" x="4594493.039" y="5821323.335" >
+		     <vehicle type="car" vehicleID="5457021" />
+		     <vehicle type="car" vehicleID="5457022" />
+		     <vehicle type="car" vehicleID="5457023" />
+		     <vehicle type="car" vehicleID="5457024" />
+		     <vehicle type="car" vehicleID="5457025" />
+		</twoway>
+		<twoway id="3" x="4595627.219" y="5820228.07" >
+		     <vehicle type="car" vehicleID="5457031" />
+		     <vehicle type="car" vehicleID="5457032" />
+		     <vehicle type="car" vehicleID="5457033" />
+		     <vehicle type="car" vehicleID="5457034" />
+		     <vehicle type="car" vehicleID="5457035" />
+		</twoway>
+		<twoway id="4" x="4594531.954" y="5819093.889" >
+		     <vehicle type="car" vehicleID="5457041" />
+		     <vehicle type="car" vehicleID="5457042" />
+		     <vehicle type="car" vehicleID="5457043" />
+		     <vehicle type="car" vehicleID="5457044" />
+		     <vehicle type="car" vehicleID="5457045" />
+		</twoway>
+		<twoway id="5" x="4593397.773" y="5820189.155" >
+		     <vehicle type="car" vehicleID="5457051" />
+		     <vehicle type="car" vehicleID="5457052" />
+		     <vehicle type="car" vehicleID="5457053" />
+		     <vehicle type="car" vehicleID="5457054" />
+		     <vehicle type="car" vehicleID="5457055" />
+		</twoway>
+		<twoway id="6" x="4595884.899" y="5821629.777" >
+		     <vehicle type="car" vehicleID="5457061" />
+		     <vehicle type="car" vehicleID="5457062" />
+		     <vehicle type="car" vehicleID="5457063" />
+		     <vehicle type="car" vehicleID="5457064" />
+		     <vehicle type="car" vehicleID="5457065" />
+		</twoway>
+		<twoway id="7" x="4595933.68" y="5818836.191" >
+		     <vehicle type="car" vehicleID="5457071" />
+		     <vehicle type="car" vehicleID="5457072" />
+		     <vehicle type="car" vehicleID="5457073" />
+		     <vehicle type="car" vehicleID="5457074" />
+		     <vehicle type="car" vehicleID="5457075" />
+		</twoway>
+		<twoway id="8" x="4593140.057" y="5818787.41" >
+		     <vehicle type="car" vehicleID="5457081" />
+		     <vehicle type="car" vehicleID="5457082" />
+		     <vehicle type="car" vehicleID="5457083" />
+		     <vehicle type="car" vehicleID="5457084" />
+		     <vehicle type="car" vehicleID="5457085" />
+		</twoway>
+		<twoway id="9" x="4593091.313" y="5821581.033" >
+		     <vehicle type="car" vehicleID="5457091" />
+		     <vehicle type="car" vehicleID="5457092" />
+		     <vehicle type="car" vehicleID="5457093" />
+		     <vehicle type="car" vehicleID="5457094" />
+		     <vehicle type="car" vehicleID="5457095" />
+		</twoway>
+		<twoway id="10" x="4594468.93" y="5823208.949" >
+		     <vehicle type="car" vehicleID="5457101" />
+		     <vehicle type="car" vehicleID="5457102" />
+		     <vehicle type="car" vehicleID="5457103" />
+		     <vehicle type="car" vehicleID="5457104" />
+		     <vehicle type="car" vehicleID="5457105" />
+		</twoway>
+		<twoway id="11" x="4597504.204" y="5820260.833" >
+		     <vehicle type="car" vehicleID="5457111" />
+		     <vehicle type="car" vehicleID="5457112" />
+		     <vehicle type="car" vehicleID="5457113" />
+		     <vehicle type="car" vehicleID="5457114" />
+		     <vehicle type="car" vehicleID="5457115" />
+		</twoway>
+		<twoway id="12" x="4594564.717" y="5817216.868" >
+		     <vehicle type="car" vehicleID="5457121" />
+		     <vehicle type="car" vehicleID="5457122" />
+		     <vehicle type="car" vehicleID="5457123" />
+		     <vehicle type="car" vehicleID="5457124" />
+		     <vehicle type="car" vehicleID="5457125" />
+		</twoway>
+		<twoway id="13" x="4591520.746" y="5820156.391" >
+		     <vehicle type="car" vehicleID="5457131" />
+		     <vehicle type="car" vehicleID="5457132" />
+		     <vehicle type="car" vehicleID="5457133" />
+		     <vehicle type="car" vehicleID="5457134" />
+		     <vehicle type="car" vehicleID="5457135" />
+		</twoway>
+		<twoway id="14" x="4597257.32" y="5823050.961" >
+		     <vehicle type="car" vehicleID="5457141" />
+		     <vehicle type="car" vehicleID="5457142" />
+		     <vehicle type="car" vehicleID="5457143" />
+		     <vehicle type="car" vehicleID="5457144" />
+		     <vehicle type="car" vehicleID="5457145" />
+		</twoway>
+		<twoway id="15" x="4597366.319" y="5817465.015" >
+		     <vehicle type="car" vehicleID="5457151" />
+		     <vehicle type="car" vehicleID="5457152" />
+		     <vehicle type="car" vehicleID="5457153" />
+		     <vehicle type="car" vehicleID="5457154" />
+		     <vehicle type="car" vehicleID="5457155" />
+		</twoway>
+		<twoway id="16" x="4591767.636" y="5817366.227" >
+		     <vehicle type="car" vehicleID="5457161" />
+		     <vehicle type="car" vehicleID="5457162" />
+		     <vehicle type="car" vehicleID="5457163" />
+		     <vehicle type="car" vehicleID="5457164" />
+		     <vehicle type="car" vehicleID="5457165" />
+		</twoway>
+		<twoway id="17" x="4591670.129" y="5822953.454" >
+		     <vehicle type="car" vehicleID="5457171" />
+		     <vehicle type="car" vehicleID="5457172" />
+		     <vehicle type="car" vehicleID="5457173" />
+		     <vehicle type="car" vehicleID="5457174" />
+		     <vehicle type="car" vehicleID="5457175" />
+		</twoway>
+	</company>
+</companies>
